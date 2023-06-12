@@ -1,2 +1,4 @@
 # Lo07-projet
-repositary du projet de lo07
+Mathieu LE TREUST
+Louis HENNECHART
+https://dev-isi.utt.fr/~le_treum/lo07_tp/projet/
